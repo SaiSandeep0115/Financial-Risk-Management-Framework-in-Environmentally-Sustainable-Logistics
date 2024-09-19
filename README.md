@@ -12,6 +12,9 @@
 ### Abstract: 
 This project focuses on developing a financial risk management framework aimed at enhancing the sustainability and profitability of logistics operations. By analyzing various supply chain parameters, the goal is to provide insights that drive both revenue growth and reduced carbon emissions.
 
+### Dataset Source:
+Kaggle
+
 ### Data Analysis Pipeline:
 1. Business Objectives and Pipeline Navigation:
 - Data Information and Description: Understanding the dataset's context and variables.
