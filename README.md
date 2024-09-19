@@ -1,13 +1,13 @@
 # Financial-Risk-Management-Framework-in-Environmentally-Sustainable-Logistics
 
 ## Softwares: 
-- *PowerBI*
-- *Excel* (Formulas, Functions, PivotTable, PivotChart, VBA and Macros)
+- **PowerBI**
+- **Excel** (Formulas, Functions, PivotTable, PivotChart, VBA and Macros)
 
 ## Technologies: 
-- *Data Analysis*
-- *Data Visualization*
-- *Business Intelligence*
+- **Data Analysis**
+- **Data Visualization**
+- **Business Intelligence**
 
 ### Abstract: 
 This project focuses on developing a financial risk management framework aimed at enhancing the sustainability and profitability of logistics operations. By analyzing various supply chain parameters, the goal is to provide insights that drive both revenue growth and reduced carbon emissions.
