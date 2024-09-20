@@ -1,8 +1,8 @@
 # Financial-Risk-Management-Framework-in-Environmentally-Sustainable-Logistics
 
 ## Softwares: 
-- **PowerBI**
 - **Excel** (Formulas, Functions, PivotTable, PivotChart, VBA and Macros)
+- **PowerBI**
 
 ## Technologies: 
 - **Data Analysis**
