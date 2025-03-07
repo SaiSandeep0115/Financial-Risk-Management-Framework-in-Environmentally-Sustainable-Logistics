@@ -1,6 +1,6 @@
 # Financial-Risk-Management-Framework-in-Environmentally-Sustainable-Logistics
 
-## Process Flow
+#### Process Flow
 ![Process Flow](Home_Page.png)
 
 ## Softwares: 
@@ -38,10 +38,10 @@ Kaggle
 ### Results and Conclusion: 
 The framework demonstrates a clear relationship between supply chain practices, revenue growth, and carbon emissions, providing a pathway for organizations to enhance their financial and environmental performance.
 
-## Dashboard Home Page
+#### Dashboard Home Page
 ![Dashboard Home Page](PBI_Risk_Management_Framework.png)
 
-## Risk Analysis Framework
+#### Risk Analysis Framework
 ![Risk Analysis Framework](Result_Financial_Risk_Analysis.png)
 
 ### Disclaimer: 
