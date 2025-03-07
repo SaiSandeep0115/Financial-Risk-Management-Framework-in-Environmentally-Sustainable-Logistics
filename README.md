@@ -3,9 +3,6 @@
 ## Process Flow
 ![Process Flow](Home_Page.png)
 
-## 
-![Dashboar Home Page](PBI_Risk_Management_Framework.png)
-
 ## Softwares: 
 - **Excel** (Formulas, Functions, PivotTable, PivotChart, VBA and Macros)
 - **PowerBI**
@@ -40,6 +37,12 @@ Kaggle
 
 ### Results and Conclusion: 
 The framework demonstrates a clear relationship between supply chain practices, revenue growth, and carbon emissions, providing a pathway for organizations to enhance their financial and environmental performance.
+
+## Dashboard Home Page
+![Dashboard Home Page](PBI_Risk_Management_Framework.png)
+
+## Risk Analysis Framework
+![Risk Analysis Framework](Result_Financial_Risk_Analysis.png)
 
 ### Disclaimer: 
 The findings from this project may not accurately reflect real-world scenarios. Further validation and refinement are necessary to ensure reliability and effectiveness in practical applications.
