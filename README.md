@@ -4,7 +4,7 @@
 ![Process Flow](Home_Page.png)
 
 ## 
-![Dashboar Home Page](Home_Page.png)
+![Dashboar Home Page](PBI_Risk_Management_Framework.png)
 
 ## Softwares: 
 - **Excel** (Formulas, Functions, PivotTable, PivotChart, VBA and Macros)
