@@ -1,6 +1,3 @@
-# Financial-Risk-Management-Framework-in-Environmentally-Sustainable-Logistics
-
-#### Process Flow
 ![Process Flow](Home_Page.png)
 
 ## Softwares: 
