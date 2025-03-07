@@ -43,6 +43,3 @@ The framework demonstrates a clear relationship between supply chain practices, 
 
 #### Risk Analysis Framework
 ![Risk Analysis Framework](Result_Financial_Risk_Analysis.png)
-
-### Disclaimer: 
-The findings from this project may not accurately reflect real-world scenarios. Further validation and refinement are necessary to ensure reliability and effectiveness in practical applications.
